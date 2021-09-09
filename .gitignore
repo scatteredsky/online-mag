@@ -1,0 +1,6 @@
+/* Node directories */
+node_modules
+/node_modules
+
+/* Other files */
+.DS_Store
